@@ -15,7 +15,7 @@ unsigned long hash(char *str) {
 ```
 
 This program will change the *hash* and *<<5* (*shift*) values,
-exploring the space between 0 and 10000 for the *hash* and 1 to 31 for the *shift* output **C** code with the best algorithm for the lower hash array size.
+exploring the space between 0 and 10000 for the *hash* and 1 to 31 for the *shift* and will output **C** code with the best algorithm for the lower hash array size.
 
 ## Show And Tell
 
